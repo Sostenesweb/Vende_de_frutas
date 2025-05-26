@@ -1,4 +1,4 @@
-package fruta;
+package fruta;.
 
 import produto.Produto;             
 
